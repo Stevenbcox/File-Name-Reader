@@ -1,0 +1,3 @@
+# === Configuration ===
+input_folder = r"P:\Users\Steven Cox\Projects\test folders\FileName reader\input"
+output_base = r"P:\Users\Steven Cox\Projects\test folders\FileName reader\output"

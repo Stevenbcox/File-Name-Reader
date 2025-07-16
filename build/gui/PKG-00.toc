@@ -1,0 +1,74 @@
+('P:\\Users\\Steven Cox\\Projects\\FileNameReader\\build\\gui\\gui.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'P:\\Users\\Steven Cox\\Projects\\FileNameReader\\build\\gui\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'P:\\Users\\Steven '
+   'Cox\\Projects\\FileNameReader\\build\\gui\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'P:\\Users\\Steven '
+   'Cox\\Projects\\FileNameReader\\build\\gui\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'P:\\Users\\Steven '
+   'Cox\\Projects\\FileNameReader\\build\\gui\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'P:\\Users\\Steven '
+   'Cox\\Projects\\FileNameReader\\build\\gui\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'P:\\Users\\Steven '
+   'Cox\\Projects\\FileNameReader\\build\\gui\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   '\\\\rvo-dc-fs01\\MI-Public\\Users\\Steven '
+   'Cox\\Projects\\FileNameReader\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   '\\\\rvo-dc-fs01\\MI-Public\\Users\\Steven '
+   'Cox\\Projects\\FileNameReader\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   '\\\\rvo-dc-fs01\\MI-Public\\Users\\Steven '
+   'Cox\\Projects\\FileNameReader\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   '\\\\rvo-dc-fs01\\MI-Public\\Users\\Steven '
+   'Cox\\Projects\\FileNameReader\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   '\\\\rvo-dc-fs01\\MI-Public\\Users\\Steven '
+   'Cox\\Projects\\FileNameReader\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   '\\\\rvo-dc-fs01\\MI-Public\\Users\\Steven '
+   'Cox\\Projects\\FileNameReader\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   '\\\\rvo-dc-fs01\\MI-Public\\Users\\Steven '
+   'Cox\\Projects\\FileNameReader\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('gui',
+   '\\\\rvo-dc-fs01\\MI-Public\\Users\\Steven '
+   'Cox\\Projects\\FileNameReader\\gui.py',
+   'PYSOURCE')],
+ 'python311.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
